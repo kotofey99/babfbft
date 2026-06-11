@@ -1,5 +1,5 @@
 # BABFT Script Hub
-=
+
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kotofey99/babfbft/main/loader/loader.lua?t=" .. os.time(), true))()
 ```
@@ -12,10 +12,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/kotofey99/babfbft/mai
 
 ## Status
 
-| Module     | Status        |
-|-----------|---------------|
-| Rayfield  | Full          |
-| CascadeUI | Full          |
+| Module     | Status           |
+|-----------|------------------|
+| Rayfield  | Full             |
+| CascadeUI | Full             |
 | WindUI    | Full (uses core) |
-| Linoria   | Stub          |
-| Mercury   | Stub          |
+| Linoria   | Full (uses core) |
+| Mercury   | Full (uses core) |
