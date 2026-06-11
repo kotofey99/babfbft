@@ -31,7 +31,7 @@ BABFT.Locale = BABFT.Locale or "en"
 BABFT.ModuleCleanup = nil
 BABFT.HubWindow = nil
 BABFT.ActiveModule = nil
-BABFT.Version = "v5"
+BABFT.Version = "v6"
 
 local function cacheUrl(url)
     return url .. "?t=" .. tostring(os.time())

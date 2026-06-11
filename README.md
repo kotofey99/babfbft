@@ -16,6 +16,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/kotofey99/babfbft/mai
 |-----------|---------------|
 | Rayfield  | Full          |
 | CascadeUI | Full          |
-| WindUI    | Stub          |
+| WindUI    | Full (uses core) |
 | Linoria   | Stub          |
 | Mercury   | Stub          |
